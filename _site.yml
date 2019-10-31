@@ -2,19 +2,17 @@ name: "Cool!"
 output_dir: "."
 navbar:
   title: "Home"
-right:
-  - text: "About"
-href: about.html
-- text: Examples
-menu:
-  - text: "Plotly"
-href: plotly.html
-- text: "Dashboard"
-href: dashboard.html
-- icon: fa-envelope fa-lg
-href: mailto:<dingxt95@gmail.com>
-  - icon: fa-github fa-lg
-href: http://github.com/xintaoding99/
+  right:
+    - text: "Resume"
+      href:  about.html
+    - text: "Dashboard"
+      href: dashboard.html
+    - icon: fa-envelope fa-lg
+      href: mailto:<dingxt95@gmail.com>
+    - text: "Linkedin"
+      href: https://www.linkedin.com/in/xintao-ding-010a78a4/
+    - icon: fa-github fa-lg
+      href: http://github.com/xintaoding99/
 output:
   html_document:
-  theme: journal
+   theme: flatly
