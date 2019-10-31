@@ -17,9 +17,11 @@ library(plotly)
 ```
 
 ```{r import data}
-instacart
-
-
+data("rest_inspec")
+res_data <- rest_inspec %>% 
+  janitor::clean_names() %>%   # cuisin_description, street
+  drop_na() 
+res_data 
 
 ```
 
