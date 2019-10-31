@@ -2,13 +2,21 @@
 title: "p8105_hw4_website"
 author: "Xintao Ding"
 date: "10/31/2019"
-output: html_document
+output: 
+  html_document:
+    toc: true
+    toc_float: true
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
-# This is Xintao Ding's website
+# Welcome!
+
+This is Xintao Ding's personal webiste. I'm a second-year MA student in Biomedical Informatics. I have an interest in clinical informatics, specifically in how we can use EHR data to help transform the healthcare landscape to deliver better value to patients. 
+
+You can find a resume [here](about.html)
+
+# This is just some of the things I in my major
+
+![](images/symbolic methods.jpeg)
 
 
