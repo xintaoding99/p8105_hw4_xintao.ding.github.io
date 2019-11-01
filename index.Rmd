@@ -13,12 +13,14 @@ output:
 
 This is Xintao Ding's personal webiste. I'm a second-year MA student in Biomedical Informatics. I have an interest in clinical informatics, specifically in how we can use EHR data to help transform the healthcare landscape to deliver better value to patients. 
 
+# Professional 
 You can find a resume [here](about.html)
 
-# This is just some of the things I learn in my major
+This is just some of the things I learn in my major
 
 ![](images/symbolic methods.jpeg)
 
-# Don't have a lot of personal life going on right now. Hence this webiste is for academic only
+# Personal 
+Don't have a lot of personal life going on right now. Hence this webiste is for mostly(only) professional
 
 
