@@ -8,7 +8,7 @@ output:
     vertical_layout: fill
 ---
 
-```{r setup, include=FALSE}
+```{r setup, include=FALSE, warning = FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 library(flexdashboard)
 library(tidyverse)
@@ -17,7 +17,7 @@ library(p8105.datasets)
 library(plotly)
 ```
 
-```{r import data}
+```{r echo = FALSE}
 data("rest_inspec")
 set.seed(1)
 res_data <- rest_inspec %>% 
@@ -33,7 +33,7 @@ Column {data-width=650}
 
 ### Scatterplot 
 ### looking at coffee shops' score across inspection data in all five boroughs
-```{r}
+```{r echo = FALSE}
 
 res_data %>% 
   filter(cuisine_description == "CafÃ©/Coffee/Tea") %>% 
@@ -47,7 +47,7 @@ Column {data-width=350}
 ### Boxplot 
 ### boros and with their respective "critical" critical flag
 
-```{r}
+```{r echo = FALSE}
 res_data %>%
   filter(critical_flag == "Critical") %>% 
   mutate(boro = fct_reorder(boro, score)) %>% 
@@ -55,10 +55,10 @@ res_data %>%
   
 ```
 
-### Bartchart
+### Barchart
 ### Number of restaurants inspected in each boro
 
-```{r}
+```{r echo = FALSE}
 res_data %>% 
   count(boro) %>% 
   mutate(boro = fct_reorder(boro, n)) %>% 
