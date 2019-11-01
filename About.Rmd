@@ -25,13 +25,14 @@ MA Biomedical Informatics       	May 2020
 # WORK & ANALYSIS EXPERIENCE
 ## Roche Diagnostics Shanghai Ltd.	Shanghai, China
 Marketing Intern 	July 2019-August 2019
+
 •	Synthesized 78,000 raw datasets into actionable insights and strategies for the sales team to maximize profitability 
 
 •	Calculated channel sales profits of numerous products and determined the optimal rebate rates for 55 channel sales partners in 30 provinces in two weeks
 
 •	Coordinated with 10 regional sales managers on important product recalls and streamlined the process to translate, disseminate and collect recall notices 
 
-## New York Presbyterian Hospital Research Science     New York, NY                                       
+## New York Presbyterian Hospital Research Science     New York, NY 
 Research Coordinator    February 2019-Present
 
 •	Conducted a feasibility study on 100 patients in a cardiology clinic by customizing and disseminating an electronic survey to collect patient-reported health outcomes to better understand patients’ health needs 
@@ -40,7 +41,7 @@ Research Coordinator    February 2019-Present
 
 •	Draw insights from data on how providers can use healthcare IT to improve the quality and value of care delivery 
 
-## GeneDx Inc.    Gaithersburg, MD                                                                         
+## GeneDx Inc.    Gaithersburg, MD                                                                       
 Clinical Laboratory Technician   November 2017-June 2018
 
 •	Utilized a wide range of laboratory equipment and performed both routine and special laboratory assays of patient specimens with 98% result accuracy and an average turn-around time of 3 days
@@ -48,7 +49,6 @@ Clinical Laboratory Technician   November 2017-June 2018
 •	Evaluated quality control within laboratory using standard tests and measurement controls, and maintained compliance with CLIA, HIPPA and OSHA guidelines
 
 ## National Institutes of Health     	Bethesda, MD   
-
 Research Assistant   May 2016-December 2016  
 
 •	Initiated an independent research project on the evolution of influenza A antibodies and provided insights into the design of a universal anti-stem influenza vaccine
@@ -71,7 +71,8 @@ Liaison       June 2017-Present
 
 • Create social platforms for current Colgate international students to seek career advice from international alumni
 
-Vice President    October 2014-May 2017                                                                   •	Expanded the small interest group and grew membership by over 280 % from 32 to 90 permanent attendees
+Vice President    October 2014-May 2017                                                                  
+•	Expanded the small interest group and grew membership by over 280 % from 32 to 90 permanent attendees
 
 # LANGUAGE & INTEREST
 •	Language: native in Mandarin; fluent in English; conversational in French

@@ -15,8 +15,10 @@ This is Xintao Ding's personal webiste. I'm a second-year MA student in Biomedic
 
 You can find a resume [here](about.html)
 
-# This is just some of the things I in my major
+# This is just some of the things I learn in my major
 
 ![](images/symbolic methods.jpeg)
+
+# Don't have a lot of personal life going on right now. Hence this webiste is for academic only
 
 
