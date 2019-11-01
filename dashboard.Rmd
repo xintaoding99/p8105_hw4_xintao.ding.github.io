@@ -1,7 +1,5 @@
 ---
 title: "flexdashboard"
-author: "Xintao Ding"
-date: "10/31/2019"
 output: 
   flexdashboard::flex_dashboard:
     orientation: columns

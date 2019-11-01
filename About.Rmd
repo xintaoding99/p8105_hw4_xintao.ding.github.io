@@ -1,7 +1,5 @@
 ---
 title: "Resume"
-author: "Xintao Ding"
-date: "10/31/2019"
 output: 
   html_document:
     toc: true
