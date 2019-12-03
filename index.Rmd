@@ -24,3 +24,4 @@ This is just some of the things I learn in my major
 Don't have a lot of personal life going on right now. Hence this webiste is for mostly(only) professional
 
 
+tyring to see if making changes directly on github would change anything
